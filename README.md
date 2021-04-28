@@ -4,7 +4,7 @@
 ### Hi there 👋🏾
 <hr>
 
-#### Socials
+### Socials
 <p align="center">
 <a href="https://twitter.com/justvibes401"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> 
 <a href="https://medium.com/@p-uzor99"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" height=25></a> 
@@ -18,13 +18,13 @@
                                                                                                                                              
 ![Profile views](https://gpvc.arturio.dev/uzor13)  
 <br>
-#### About Me
+### About Me
 Hi, My name is Uzochukwu Precious, and I’m a Web Developer with skills in web tools such as HTML, CSS, JavaScript, Django, TailwindCSS, Bootstrap, WordPress and Figma. I also work with Python. 
 I am a goal-oriented Software Developer with a strong commitment to collaboration and solutions-oriented problem-solving. I'm looking into getting into the open-source community and contributing to more projects.
 
 <br>
 
-#### Skills 
+### Skills 
 HTML, CSS, JS, React, TailwindCSS, Figma, WordPress, Django
 
 <br>
@@ -38,7 +38,7 @@ HTML, CSS, JS, React, TailwindCSS, Figma, WordPress, Django
 <hr>
 <br>
 
-#### Repos
+### Repos
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=uzor13&repo=tycooncolls&show_owner=true&theme=blueberry)](https://github.com/uzor13/github-readme-stats)
 <br>
 
@@ -53,7 +53,7 @@ HTML, CSS, JS, React, TailwindCSS, Figma, WordPress, Django
 <br>
 <hr>
 
-#### Stats
+### Stats
 <br>
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uzor13&theme=cobalt" alt="" width="400">
