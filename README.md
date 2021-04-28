@@ -14,7 +14,8 @@
 <a href="mailto:p.uzor99@gmail.com"><img src="https://img.shields.io/badge/gmail-%EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white" height=25></a>
 </p>
 <hr>
-
+<br>
+                                                                                                                                             
 ![Profile views](https://gpvc.arturio.dev/uzor13)  
 <br>
 #### About Me
@@ -23,7 +24,7 @@ I am a goal-oriented Software Developer with a strong commitment to collaboratio
 
 <br>
 
-####Skills 
+#### Skills 
 HTML, CSS, JS, React, TailwindCSS, Figma, WordPress, Django
 
 <br>
@@ -52,7 +53,7 @@ HTML, CSS, JS, React, TailwindCSS, Figma, WordPress, Django
 <br>
 <hr>
 
-####Stats
+#### Stats
 <br>
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uzor13&theme=cobalt" alt="" width="400">
