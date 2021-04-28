@@ -1,3 +1,6 @@
+![Uzochukwu Precious (1)](https://user-images.githubusercontent.com/40992425/116480999-49a5a100-a87a-11eb-9a13-779b284fa634.png)
+
+
 ### Hi there 👋🏾
 <hr>
 
@@ -15,7 +18,7 @@
 ![Profile views](https://gpvc.arturio.dev/uzor13)  
 <br>
 #### About Me
-Hi, My name is Uzochukwu Precious and I’m a Web Developer with skills in web tools such as HTML, CSS, JavaScript, Django, TailwindCSS, Bootstrap, WordPress and Figma. I also work with Python. 
+Hi, My name is Uzochukwu Precious, and I’m a Web Developer with skills in web tools such as HTML, CSS, JavaScript, Django, TailwindCSS, Bootstrap, WordPress and Figma. I also work with Python. 
 I am a goal-oriented Software Developer with a strong commitment to collaboration and solutions-oriented problem-solving. I'm looking into getting into the open-source community and contributing to more projects.
 
 <br>
@@ -34,6 +37,23 @@ HTML, CSS, JS, React, TailwindCSS, Figma, WordPress, Django
 <hr>
 <br>
 
+#### Repos
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=uzor13&repo=tycooncolls&show_owner=true&theme=blueberry)](https://github.com/uzor13/github-readme-stats)
+<br>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=uzor13&repo=TraCalories&show_owner=true&theme=blueberry)](https://github.com/uzor13/github-readme-stats)
+<br>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=uzor13&repo=TSP&show_owner=true&theme=blueberry)](https://github.com/uzor13/github-readme-stats)
+<br>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=uzor13&repo=github-jobs&show_owner=true&theme=blueberry)](https://github.com/uzor13/github-readme-stats)
+<br>
+<br>
+<hr>
+
+####Stats
+<br>
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uzor13&theme=cobalt" alt="" width="400">
 <br>
