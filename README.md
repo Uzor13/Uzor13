@@ -39,7 +39,7 @@ HTML, CSS, JS, React, TailwindCSS, Figma, WordPress, Django
 <br>
 
 ### Repos
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=uzor13&repo=speech_to_sign_language_and_sentiment_analysis_system&show_owner=true&theme=blueberry)](https://github.com/uzor13/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=uzor13&repo=Speech_to_sign-language_and_sentiment_analysis&show_owner=true&theme=blueberry)](https://github.com/uzor13/github-readme-stats)
 <br>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=uzor13&repo=TraCalories&show_owner=true&theme=blueberry)](https://github.com/uzor13/github-readme-stats)
