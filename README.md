@@ -19,12 +19,12 @@
 ![Profile views](https://gpvc.arturio.dev/uzor13)  
 <br>
 ### About Me
-Innovative Frontend Engineer with 3years of experience in building user interfaces and maintaining existing codebase. Demonstrated talent for product design, front and back-endweb development to optimize online presence using HTML, CSS, JavaScript, ReactJS, NodeJS, MongoDB, MySQLand Python.
+Innovative Frontend Engineer with 2 years of experience in building user interfaces and maintaining existing codebase. Demonstrated talent for product design, front and back-endweb development to optimize online presence.
 
 <br>
 
 ### Skills 
-HTML, CSS, JavaScript, ReactJS, NextJS, GraphQL, HeadlessCMS, NodeJS, MongoDB, MySQL and Python.
+HTML, CSS, JavaScript (ReactJS, NextJS), GraphQL, HeadlessCMS, NodeJS, Databases (MongoDB, MySQL) and Python.
 
 <br>
 
