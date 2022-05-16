@@ -36,16 +36,16 @@ HTML, CSS, JavaScript (ReactJS, NextJS), GraphQL, HeadlessCMS, NodeJS, Databases
 <br>
 
 ### Repos
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=uzor13&repo=Speech_to_sign-language_and_sentiment_analysis&show_owner=true&theme=blueberry)](https://github.com/uzor13/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=uzor13&repo=Speech_to_sign-language_and_sentiment_analysis&show_owner=true&theme=blueberry)](https://github.com/Uzor13/Speech_to_sign-language_and_sentiment_analysis)
 <br>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=uzor13&repo=nft-market&show_owner=true&theme=blueberry)](https://github.com/uzor13/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=uzor13&repo=nft-market&show_owner=true&theme=blueberry)](https://github.com/uzor13/nft-market)
 <br>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=uzor13&repo=text-analytics&show_owner=true&theme=blueberry)](https://github.com/uzor13/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=uzor13&repo=text-analytics&show_owner=true&theme=blueberry)](https://github.com/uzor13/text-analytics)
 <br>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=uzor13&repo=airbnb-clone&show_owner=true&theme=blueberry)](https://github.com/uzor13/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=uzor13&repo=airbnb-clone&show_owner=true&theme=blueberry)](https://github.com/uzor13/airbnb-clone)
 <br>
 <br>
 <hr>
