@@ -1,6 +1,3 @@
-![Uzochukwu Precious (1)](https://user-images.githubusercontent.com/40992425/116480999-49a5a100-a87a-11eb-9a13-779b284fa634.png)
-
-
 ### Hi there 👋🏾
 <hr>
 
@@ -9,7 +6,6 @@
 <a href="https://twitter.com/justvibes401"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> 
 <a href="https://medium.com/@p-uzor99"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" height=25></a> 
 <a href="https://dev.to/uzor13"><img src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev.to&logoColor=white" height=25></a>
-<a href="https://dribbble.com/Uzor13"><img src="https://img.shields.io/badge/dribbble-%EA4C89.svg?&style=for-the-badge&logo=dribbble&logoColor=white" height=25></a>
 <a href="https://www.linkedin.com/in/uzochukwuprecious"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
 <a href="mailto:p.uzor99@gmail.com"><img src="https://img.shields.io/badge/gmail-%EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white" height=25></a>
 </p>
@@ -24,7 +20,7 @@ Innovative Software Engineer with 2 years of experience building user interfaces
 <br>
 
 ### Skills 
-HTML, CSS, JavaScript (ReactJS, NextJS), GraphQL, HeadlessCMS, NodeJS, Databases (MongoDB, MySQL) and Python.
+HTML, CSS, JavaScript (ReactJS, NextJS), Java, Spring boot, MySQL, Azure and Python.
 
 <br>
 
