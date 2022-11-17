@@ -19,7 +19,7 @@
 ![Profile views](https://gpvc.arturio.dev/uzor13)  
 <br>
 ### About Me
-Innovative Frontend Engineer with 2 years of experience in building user interfaces and maintaining existing codebase. Demonstrated talent for product design, front and back-endweb development to optimize online presence.
+Innovative Software Engineer with 2 years of experience building user interfaces and maintaining existing codebase. Demonstrated talent for Frontend and Backend development to optimize online presence using HTML, CSS, JavaScript, ReactJS, Java, and MySQL.
 
 <br>
 
