@@ -20,11 +20,11 @@ Innovative Software Engineer with 2 years of experience building user interfaces
 <br>
 
 ### Skills 
-HTML, CSS, JavaScript (ReactJS, NextJS), Java, Spring boot, MySQL, Azure and Python.
+HTML, CSS, JavaScript, Java, Spring boot, MySQL.
 
 <br>
 
-- 🔭 I’m currently working on an NFT marketplace 
+- 🔭 I’m currently working on an Speech to Sign Language System. 
 - 👯 I’m looking to collaborate on Open source projects 
 - 📫 How to reach me: p.uzor99@gmail.com 
 
