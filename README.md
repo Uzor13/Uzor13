@@ -15,8 +15,7 @@
 ![Profile views](https://gpvc.arturio.dev/uzor13)  
 <br>
 ### About Me
-Innovative Software Engineer with 2 years of experience building user interfaces and maintaining existing codebase. Demonstrated talent for Frontend and Backend development to optimize online presence using HTML, CSS, JavaScript, ReactJS, Java, and MySQL.
-
+Backend Software Engineer with 4+ years of experience designing and operating high-throughput, distributed payment and transaction-processing systems serving 12M+ users. Strong foundation in Java/Spring Boot with hands-on experience across Apache Kafka, MySQL, Kubernetes, and cloud infrastructure (GCP). Track record of improving system reliability through observability and retry/failure-recovery design, and of reducing defects through rigorous code review. 
 <br>
 
 ### Skills 
