@@ -18,7 +18,7 @@ Backend Software Engineer with 4+ years of experience designing and operating hi
 <br>
 
 ### Skills 
-HTML, CSS, JavaScript, Java, Spring boot, MySQL.
+HTML, CSS, JavaScript, Java, Spring boot, MySQL, Google Spanner, Apache Kafka, Google Cloud Platform (GCP), Kubernetes, Docker, Jenkins, CI/CD, Git, JUnit.
 
 <br>
 
